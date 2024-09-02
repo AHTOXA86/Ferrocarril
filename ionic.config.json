@@ -1,0 +1,7 @@
+{
+  "name": "Ferrocarril",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
